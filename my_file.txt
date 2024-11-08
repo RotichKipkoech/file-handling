@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is line 2 with a number: 12345
+This is line 3 with some more text.
+Appended line 1: Adding new content.
+Appended line 2: More new text!
+Appended line 3: Even more added.
